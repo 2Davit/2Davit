@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David Aicardi</h1>
 <h3 align="center">A full stack web developer about to start his career</h3>
 
-- 🌱 I’m currently learning **JavaScript, React, Redux, NodeJS, Express, Sequelize and PostgreSQL**, but also wondering to learn any tech related to videogames development!
+- 🌱 I’m currently learning **JavaScript, React, Redux, NodeJS, Express, Sequelize and PostgreSQL**, but also looking to learn any tech related to videogames development!
 
 <h3 align="left">Contact with me:</h3>
 <p align="left">
